@@ -1,2 +1,1 @@
-https://octodex.github.com/images/yaktocat.png
-Cool
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
